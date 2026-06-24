@@ -1,7 +1,7 @@
 {
-  "name": "旅遊記帳與條碼管理系統",
-  "short_name": "旅遊記帳",
-  "description": "依日期與主題分組的旅行記帳工具，支援一維條碼與 QR Code 掃描",
+  "name": "小桃記帳本",
+  "short_name": "小桃記帳本",
+  "description": "小桃記帳本：旅遊與日常記帳工具，支援一維條碼與 QR Code 掃描。",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
